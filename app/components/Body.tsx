@@ -18,8 +18,9 @@ function Body() {
         <p className="">hey there 👋, am Kasuba97</p>
         <p>location: lusaka,zambia</p>
         <p>
-          Education: self-taught, devnest bootcamp,the coding school,UoPeople
+          education: self-taught, devnest bootcamp,the coding school,UoPeople
         </p>
+        {/* should be a link */}
         <p>work (Current) soundwork</p>
         <p>hobbies: anime,games,reading,learning</p>
 
@@ -28,13 +29,22 @@ function Body() {
           <a
             href="https://www.linkedin.com/in/kasuba97/"
             className="text-linkColor"
+            target="_blank"
           >
             <LinkedinIcons />
           </a>
-          <a href="https://x.com/kasuba97" className="text-linkColor">
+          <a
+            href="https://x.com/kasuba97"
+            className="text-linkColor"
+            target="_blank"
+          >
             <XIcon />
           </a>
-          <a href="https://github.com/kasuba97" className="text-linkColor">
+          <a
+            href="https://github.com/kasuba97"
+            className="text-linkColor"
+            target="_blank"
+          >
             <GithubIcon />
           </a>
         </div>
