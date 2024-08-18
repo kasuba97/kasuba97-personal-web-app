@@ -10,6 +10,7 @@ const config: Config = {
     extend: {
       backgroundColor: {
         btn: "#361b3d",
+        highlight: "#9333ea",
       },
       borderColor: { border: "#9333ea" },
       textColor: {

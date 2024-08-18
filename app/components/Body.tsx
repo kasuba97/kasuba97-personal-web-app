@@ -1,5 +1,6 @@
 import React from "react";
 import Image from "next/image";
+import { GithubIcon, LinkedinIcons, XIcon } from "./icons";
 
 function Body() {
   return (
@@ -21,19 +22,22 @@ function Body() {
         </p>
         <p>work (Current) soundwork</p>
         <p>hobbies: anime,games,reading,learning</p>
-        <p>digital presence:</p>
-        <a
-          href="https://www.linkedin.com/in/kasuba97/"
-          className="text-linkColor"
-        >
-          linkedin: kasuba97:
-        </a>
-        <a href="https://x.com/kasuba97" className="text-linkColor">
-          X: kasuba97:
-        </a>
-        <a href="https://github.com/kasuba97" className="text-linkColor">
-          github: kasuba97:
-        </a>
+
+        <div className="selection:text-white flex items-center gap-3">
+          <p>digital presence:</p>
+          <a
+            href="https://www.linkedin.com/in/kasuba97/"
+            className="text-linkColor"
+          >
+            <LinkedinIcons />
+          </a>
+          <a href="https://x.com/kasuba97" className="text-linkColor">
+            <XIcon />
+          </a>
+          <a href="https://github.com/kasuba97" className="text-linkColor">
+            <GithubIcon />
+          </a>
+        </div>
       </div>
     </div>
   );
