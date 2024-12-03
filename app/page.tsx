@@ -3,7 +3,7 @@ import Nav from "./components/Nav";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center selection:bg-highlight ">
+    <main className="flex min-h-screen w-screen flex-col md:items-center md:justify-center selection:bg-highlight ">
       <Nav />
       <Body />
     </main>
