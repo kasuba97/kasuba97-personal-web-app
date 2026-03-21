@@ -3,8 +3,7 @@ function Experience() {
     <div className="flex flex-col lg:flex-row space-x-2">
       <p>work</p>
       <div className="flex flex-col lg:flex-row space-x-2">
-        <div>
-         <a
+        <div><a
           href="https://soundwork.io"
           target="https://soundwork.io/"
           className="hover:bg-slate-400"
@@ -13,7 +12,7 @@ function Experience() {
 <p>web3 sound marketplace</p>
 </div>
 
-       <div> <a href="/#" className="hover:bg-slate-400">(completed) techsprung private
+       <div><a href="/#" className="hover:bg-slate-400">(completed) techsprung private
         </a>
 <p>business management app</p>
 </div>
