@@ -1,7 +1,3 @@
-Here's a clean, minimalist README for a programmer's personal GitHub profile:
-
----
-
 👋 Hi, I'm Kasuba97
 
 ```javascript
@@ -26,16 +22,3 @@ https://kasuba97.vercel.app
 
 · Email: kasubasich@gmail.com 
 . Discord: kasuba97
-
----
-
-“Simplicity is the ultimate sophistication.”
-
----
-
-To customize:
-
-· Replace bracketed text with your actual info
-· Remove sections you don't need
-· Update the GitHub stats URL with your username
-· Add or remove social links as desired
