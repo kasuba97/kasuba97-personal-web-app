@@ -10,8 +10,8 @@ const me = {
 
 🚀 About Me
 
-· 🔭 Currently building [something simple]
-· 🌱 Learning [one thing at a time]
+· 🔭 Currently building 💧sui
+· 🌱 Learning MQL5 
 · ⚡ Focused on clean code and minimal solutions
 
 📊 GitHub Stats
