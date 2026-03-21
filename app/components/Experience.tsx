@@ -12,7 +12,7 @@ function Experience() {
           (paused dev) soundwork
         </a>
 <p>web3 sound marketplace</p>
-</div≥
+</div>
 
        <div> <a href="/#" className="hover:bg-slate-400">
           (completed) techsprung private
