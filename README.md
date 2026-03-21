@@ -2,7 +2,7 @@ Here's a clean, minimalist README for a programmer's personal GitHub profile:
 
 ---
 
-👋 Hi, I'm [Your Name]
+👋 Hi, I'm Kasuba97
 
 ```javascript
 const me = {
