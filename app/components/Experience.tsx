@@ -8,18 +8,16 @@ function Experience() {
           href="https://soundwork.io"
           target="https://soundwork.io/"
           className="hover:bg-slate-400"
-         >
-          (paused dev) soundwork
+         >(paused dev) soundwork
         </a>
 <p>web3 sound marketplace</p>
 </div>
 
-       <div> <a href="/#" className="hover:bg-slate-400">
-          (completed) techsprung private
+       <div> <a href="/#" className="hover:bg-slate-400">(completed) techsprung private
         </a>
 <p>business management app</p>
 </div>
-<div><a>(completed) Itrade private</a><p>AI sales representative</p></div>
+<div><ahref="/#" className="hover:bg-slate-400">(completed) Itrade private</a><p>AI sales representative</p></div>
       </div>
     </div>
   );
