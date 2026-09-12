@@ -1,6 +1,5 @@
 "use client";
 import { useRouter } from "next/navigation";
-import React from "react";
 
 function Nav() {
   const { push } = useRouter();
@@ -11,7 +10,10 @@ function Nav() {
         <li className="hover:bg-btn hover:text-white px-1 rounded-md cursor-pointer">
           main
         </li>
-        <li className="hover:bg-btn hover:text-white px-1 rounded-md cursor-pointer">
+        <li
+          className="hover:bg-btn hover:text-white px-1 rounded-md cursor-pointer"
+          onClick={() => push("/projects")}
+        >
           projects
         </li>
       </ul>
